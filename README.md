@@ -1,4 +1,4 @@
-# 💫Hi, I am Afaq Ahmed:
+# 💫Hi, I am Afaq Ahmed,
 I'm a final year student in Air University, pursuing a Bachelor's degree in Computer Science. My current focus is on mastering the MERN stack. While I'm primarily interested in full-stack development, my current role involves working as a frontend developer specializing in React JS. I enjoy working on the client-side of applications, building intuitive and responsive interfaces that users love. In my free time, I love to experiment with new technologies and frameworks, and I'm always looking for ways to improve my skills. I'm a firm believer in continuous learning, and I'm committed to staying up-to-date with the latest developments in the world of softwares.
 
 
