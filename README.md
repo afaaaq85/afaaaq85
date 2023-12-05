@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Afaq Ahmed
-=========================================================================================================================================
+========================================================================================================================================
 
 🌍  I am a MERN Stack developer based in Rawalpindi, Pakistan ![Pakistan](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/pk.png "Pakistan")
 <br/>
